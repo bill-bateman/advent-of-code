@@ -58,8 +58,8 @@ def p2(filename: str):
 
 
 if __name__=="__main__":
-    p1("data/p2_test.txt")
-    p1("data/p2_real.txt")
+    p1("data/d2_test.txt")
+    p1("data/d2_real.txt")
 
-    p2("data/p2_test.txt")
-    p2("data/p2_real.txt")
+    p2("data/d2_test.txt")
+    p2("data/d2_real.txt")

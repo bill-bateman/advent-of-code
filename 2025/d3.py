@@ -43,8 +43,8 @@ def part2(filename: str):
 
 
 if __name__=="__main__":
-    part1("data/p3_test.txt")
-    part1("data/p3_real.txt")
+    part1("data/d3_test.txt")
+    part1("data/d3_real.txt")
 
-    part2("data/p3_test.txt")
-    part2("data/p3_real.txt")
+    part2("data/d3_test.txt")
+    part2("data/d3_real.txt")

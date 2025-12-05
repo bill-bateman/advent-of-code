@@ -52,5 +52,5 @@ def main(filename: str):
     print(f"{filename} - {s}")
 
 if __name__=="__main__":
-    main("data/p1_test.txt")
-    main("data/p1_real.txt")
+    main("data/d1_test.txt")
+    main("data/d1_real.txt")
