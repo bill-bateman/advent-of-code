@@ -1,0 +1,19 @@
+[project]
+name = "advent-of-code"
+version = "0.1.0"
+description = "My advent of code solutions"
+readme = "README.md"
+authors = [
+    { name = "Bill Bateman", email = "bill@batemanzhou.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "scipy>=1.18.1",
+]
+
+[project.scripts]
+advent-of-code = "advent_of_code:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
