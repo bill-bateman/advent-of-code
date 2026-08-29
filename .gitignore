@@ -1,4 +1,5 @@
 **/__pycache__/
 *_real.txt
 .pytest_cache
+.ruff_cache
 .venv
